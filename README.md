@@ -1,2 +1,11 @@
 # Fase-Mask-Detector
-Basic Face Mask Detector using CNN Python, Keras, Tensorflow and OpenCV
+Basic Face Mask Detector using Convolution Neural Network(CNN)
+
+# Tech Stack
+Python
+
+Keras
+
+Tensorflow
+
+OpenCV
