@@ -9,3 +9,6 @@ Keras
 Tensorflow
 
 OpenCV
+
+# What are Keras, TensorFlow and OpenCV
+Keras is a neural network library while TensorFlow and OpenCV are the open-source library for a number of various tasks in machine learning.
